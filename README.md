@@ -1,4 +1,8 @@
-###  👋 - 🌱 I’m currently learning to code!
+###  👋 My name is Chardaye.
+- 🌱 I’m currently building my Front-End software development skills at <a href= "reskillamericans.org">Reskill Americans</a>. I am also studying own my own to become a Fullstack Developer. I like to think of myself as a student of life. I am enjoying my coding journey so far and love that there is always something to learn.
+- 🤔 I’m looking for all the help I can get with Javascript and React. Any tips on interviewing for my first tech position would be greatly appreciated.
+- 🔭 I’m currently working on a solo project based around mental health and building my professional portfolio.
+- ⚡ Fun fact: I am a dog mom of one to a 4 year old Bichon Frise named Brix 🐾
 
 <!--
 **cmatth21/cmatth21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
