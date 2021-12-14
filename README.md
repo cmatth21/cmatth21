@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/81329038/133164863-2e28aee5-6ebf-4711-9fc3-170b0a718086.png)
-- 🎓 I am a graduate of Johns Hopkins University with a BA in Public Health.  I also recently earned my Frontend Developer Certificate from <a href= "reskillamericans.org>ReSkill Americans<a>
+- 🎓 I am a graduate of Johns Hopkins University with a BA in Public Health.  I also recently earned my Frontend Developer Certificate from <a href= "reskillamericans.org">ReSkill Americans<a>
 - 🌱 I’m currently building my Front-End software development skills.  I am working on my mental health website <a href= "https://cmatth21.github.io/You-Are-Not-Alone-Phase-3-Project/index.html">You Are Not Alone</a>. I am also studying own my own to become a Fullstack Developer. I like to think of myself as a student of life. I am enjoying my coding journey so far and love that there is always something to learn.
 - 🤔 I’m looking for all the help I can get with Javascript and React. Any tips on interviewing for my first tech position would be greatly appreciated.
 - 🔭 I’m currently working on a solo project based around mental health and building my professional portfolio.
