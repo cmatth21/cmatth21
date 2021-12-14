@@ -4,6 +4,7 @@
 - 🤔 I’m looking for all the help I can get with Javascript and React. Any tips on interviewing for my first tech position would be greatly appreciated.
 - 🔭 I’m currently working on a solo project based around mental health, <a href= "https://cmatth21.github.io/You-Are-Not-Alone-Phase-3-Project/index.html">You Are Not Alone</a> and building my professional portfolio.
 - ⚡ Fun fact: I am a dog mom of one to a 4 year old Bichon Frise named Brix 🐾
+- 📫 How to reach me:  You can reach me by email at chardaye.matthews@gmail.com or via <a href="https://www.linkedin.com/in/chardaye-matthews/">LinkedIn<a>.
 
 <!--
 **cmatth21/cmatth21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
